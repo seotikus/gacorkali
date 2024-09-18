@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seotikus.github.io/gacorkali/sitemap.xml
